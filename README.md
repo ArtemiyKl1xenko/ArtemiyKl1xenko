@@ -1,16 +1,19 @@
-## Hi there 👋
+## ## Привет, я — k11x_ggwp 👋
+### Как говорят нейросети, я **Tech Explorer** и **Self-Taught**
 
-<!--
-**ArtemiyKl1xenko/ArtemiyKl1xenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Что я могу:
+- Ничего, кроме как писать код через нейронки.
+- Составить нормальный и читабельный запрос (промпт).
+- Тыкать нейронку носом в её же косяки.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 Что у меня в арсенале:
+
+| Категория | Устройство / Софт | Спеки и детали |
+| :--- | :--- | :--- |
+| 📱 **Телефон** | Honor X9c | 12 / 256 ГБ |
+| 💻 **Ноутбук** | Asus TUF Gaming F16 | Intel Core i5 / 16 ГБ RAM / RTX 3050 Laptop |
+| 🖥️ **Компьютер** | ПК на AMD | AMD Athlon 220GE / 8 ГБ RAM |
+| ⚙️ **Программы** | IDE & Редакторы | Visual Studio 2026, VS Code |
+| 🚀 **Стек** | Языки и платформы | C#, .NET 10, Python |
